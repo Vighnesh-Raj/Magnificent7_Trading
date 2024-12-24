@@ -58,7 +58,7 @@ This project showcases two distinct trading strategies applied to the "Magnifice
 ### Steps to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Magnificent7_Trading.git
+   git clone https://github.com/Vighnesh-Raj/Magnificent7_Trading.git
    ```
 2. Navigate to the project directory:
    ```bash
