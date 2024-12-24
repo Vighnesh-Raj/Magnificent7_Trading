@@ -83,8 +83,7 @@ SECRET_KEY = 'your_secret_key'
 ## Repository Structure
 ```
 Magnificent7_Trading/
-├── data/
-│   └── ff-monthly.csv          # Supporting data
+├── ff-monthly.csv              # Fama_French  data
 ├── LRRmag7.ipynb               # Jupyter notebook for analysis
 ├── README.md                   # Project documentation
 └── requirements.txt            # Python dependencies
