@@ -1,7 +1,7 @@
 # Magnificent 7 Portfolio Analysis
 
 ## Overview
-This project showcases two distinct trading strategies applied to the "Magnificent 7" stocks: AAPL, MSFT, TSLA, GOOGL, NVDA, META, and AMZN. Using data from Alpaca API, the project evaluates the performance of these strategies over a multi-year period (2019-2023).
+This project showcases two distinct trading strategies applied to the "Magnificent 7" stocks: AAPL, MSFT, TSLA, GOOGL, NVDA, META, and AMZN. Using data from Alpaca API, the project evaluates the performance of these strategies over 2024.
 
 ## Strategies
 
