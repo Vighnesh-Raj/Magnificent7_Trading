@@ -5,7 +5,7 @@ This project showcases two distinct trading strategies applied to the "Magnifice
 
 ## Strategies
 
-### 1. Magnificent 7 Equal-Weight Strategy
+### 1. Equal-Weight Strategy
 - **Description**: An equally weighted portfolio is constructed with daily rebalancing to maintain equal allocation across all seven stocks.
 - **Objective**:
   - Compute cumulative returns over the sample period.
